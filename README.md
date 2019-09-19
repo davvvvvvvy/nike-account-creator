@@ -7,9 +7,10 @@ Automated script for creating nike accounts + phone verification (#http://smscin
 	requests
 	tqdm
 	
-# Contribution
--Fork this repo
+# Contribution [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
--Add new features
+- Fork this repo
 
--Create a new pull request for this branch
+- Add new features
+
+- Create a new pull request for this branch
