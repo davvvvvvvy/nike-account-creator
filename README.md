@@ -6,3 +6,8 @@ Automated script for creating nike accounts + phone verification (#http://smscin
 	json
 	requests
 	tqdm
+	
+# Contribution
+-Fork this repo
+-Add new features
+-Create a new pull request for this branch
